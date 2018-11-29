@@ -10,6 +10,6 @@
 <!-- Time Tracker Code end -->
 <!-- Link code start -->
 	function link() {
-		window.open('https://haiweisuta.000webhostapp.com/schedule.html', '_self');
+		window.open('https://javu404.github.io/schedule.html', '_self');
 	}
 <!-- Link code end -->
