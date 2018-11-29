@@ -1,0 +1,85 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-image: url('nature.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+}
+main {
+    width: 450px;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 50%;
+    color: white;
+    font-family: 'Century Gothic',sans-serif;
+}
+.main-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+main h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+main h5 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+main p {
+    text-align: justify;
+}
+ul {
+    margin: 0;
+    padding: 0;
+}
+main li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+main li a {
+    color: white;
+    text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+nav {
+     text-align: left;
+     position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     cursor: pointer;
+     line-height: 0;
+     display:block !important;
+}
+#reddit:hover {
+    color: #ff4301;
+}
+#steam:hover {
+    color: #11418e;
+}
+#gmail:hover {
+    color: #dd4b39;
+}
+#linkedin:hover {
+    color: #0077B5;
+}
+#discord:hover {
+    color: #738adb;
+}
+#github:hover {
+    color: #211F1F;
+}
