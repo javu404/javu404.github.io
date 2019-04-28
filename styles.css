@@ -22,23 +22,39 @@ main {
     color: white;
     font-family: 'Century Gothic',sans-serif;
 }
-/*Website Avatar*/
+/*
+______________
+WEBSITE AVATAR
+______________
+*/
 .main-img {
     border-radius: 50%;
     width: 200px;
     height: 200px;
 }
-/*Website Header*/
+/*
+______________
+WEBSITE HEADER
+______________
+*/
 main h1 h1:hover {
     font-size: 40px;
     letter-spacing: 4px;
     font-weight: 100;
 }
-/*Author's Paragraph*/
+/*
+___________________
+AUTHOR'S PARAGRAPH
+___________________
+*/
 main p {
     text-align: justify;
 }
-/*Website Hitcounter*/
+/*
+____________________
+WEBSITE'S HITCOUNTER
+____________________
+*/
 nav {
      text-align: left;
      position: fixed;
@@ -49,7 +65,11 @@ nav {
      line-height: 0;
      display:block !important;
 }
-/*Website Icons*/
+/*
+_____________
+WEBSITE ICONS
+_____________
+*/
 ul {
     margin: 0;
     padding: 0;
