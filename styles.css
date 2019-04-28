@@ -4,13 +4,13 @@ html, body {
     height: 100%;
     width: 100%;
 }
-    body {
-        background-image: url('nature.gif');
-        background-position: center center;
-        background-attachment: fixed;
-        background-repeat: no-repeat;
-        background-size: cover;
-        overflow: hidden;
+body {
+    background-image: url('nature.gif');
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
     }
 main {
     width: 450px;
