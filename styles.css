@@ -34,9 +34,14 @@ main h1 {
     letter-spacing: 4px;
     font-weight: 100;
 }
+main h4 {
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
 main h5 {
     font-size: 20px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     font-weight: 100;
 }
 main p {
@@ -46,7 +51,7 @@ ul {
     margin: 0;
     padding: 0;
 }
-main li{
+main li {
     display: inline-block;
     margin: 6px;
     list-style: none;
@@ -57,7 +62,7 @@ main li a {
     font-size: 60px;
     transition: all ease-in-out 250ms;
 }
-.name, .name:hover {
+.name .name:hover {
     color: white;
     text-decoration: none;
 }
