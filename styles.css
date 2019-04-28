@@ -55,10 +55,6 @@ main li a {
     font-size: 60px;
     transition: all ease-in-out 250ms;
 }
-a a:hover h1 {
-    color: white;
-    text-decoration: none;
-}
 nav {
      text-align: left;
      position: fixed;
