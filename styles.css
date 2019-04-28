@@ -22,33 +22,23 @@ main {
     color: white;
     font-family: 'Century Gothic',sans-serif;
 }
+/*Website Avatar*/
 .main-img {
     border-radius: 50%;
     width: 200px;
     height: 200px;
 }
+/*Website Header*/
 main h1 h1:hover {
     font-size: 40px;
     letter-spacing: 4px;
     font-weight: 100;
 }
-main h5 {
-    font-size: 20px;
-    letter-spacing: 3px;
-    font-weight: 100;
-}
+/*Author's Paragraph*/
 main p {
     text-align: justify;
 }
-ul {
-    margin: 0;
-    padding: 0;
-}
-main li {
-    display: inline-block;
-    margin: 6px;
-    list-style: none;
-}
+/*Website Hitcounter*/
 nav {
      text-align: left;
      position: fixed;
@@ -60,6 +50,15 @@ nav {
      display:block !important;
 }
 /*Website Icons*/
+ul {
+    margin: 0;
+    padding: 0;
+}
+main li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
 main li a {
     color: white;
     font-size: 60px;
