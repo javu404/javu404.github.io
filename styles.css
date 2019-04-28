@@ -20,6 +20,7 @@ main {
     margin: auto;
     margin-bottom: 50%;
     color: white;
+    text-decoration: none;
     font-family: 'Century Gothic',sans-serif;
 }
 .main-img {
@@ -39,10 +40,6 @@ main h5 {
 }
 main p {
     text-align: justify;
-}
-#name {
-    text-decoration: none;
-    color: white;
 }
 ul {
     margin: 0;
