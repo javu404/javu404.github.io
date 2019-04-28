@@ -26,8 +26,9 @@ main {
 }
 .main-img {
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 100%;
+    height: auto;
+    max-width: 400px;
 }
 main h1 {
     font-size: 40px;
