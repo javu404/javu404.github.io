@@ -7,7 +7,7 @@ html, body {
 body {
     background-image: url('nature.gif');
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
     background-size: cover;
     overflow: hidden;
