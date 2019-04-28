@@ -8,8 +8,3 @@
 	var date = month + "/" + day + "/" + year;
 	document.write("<h4>Welcome, today's date is: " + date + ".</h4>");
 <!-- Time Tracker Code end -->
-<!-- Link code start -->
-	function link() {
-		window.open('https://javu404.github.io/schedule.html', '_self');
-	}
-<!-- Link code end -->
