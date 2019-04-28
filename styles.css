@@ -40,6 +40,10 @@ main h5 {
 main p {
     text-align: justify;
 }
+#name {
+    text-decoration: none;
+    color: white;
+}
 ul {
     margin: 0;
     padding: 0;
