@@ -56,7 +56,7 @@ main li a {
     transition: all ease-in-out 250ms;
 }
 .name {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 nav {
