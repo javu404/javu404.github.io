@@ -32,7 +32,7 @@ main h1 h1:hover {
     letter-spacing: 4px;
     font-weight: 100;
 }
-.name .name:hover {
+#name #name:hover {
     text-decoration: none;
     color: white;
 }
