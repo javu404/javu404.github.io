@@ -6,5 +6,5 @@
 	var day = time.getDate();
 	var year = time.getFullYear();
 	var date = month + "/" + day + "/" + year;
-	document.write("<h4>Welcome, today's date is: " + date + ".</h4>");
+	document.write("<h4>Today's Date: " + date + ".</h4>");
 <!-- Time Tracker Code end -->
