@@ -62,7 +62,7 @@ main li a {
     font-size: 60px;
     transition: all ease-in-out 250ms;
 }
-.name .name:hover {
+.name, .name:hover {
     color: white;
     text-decoration: none;
 }
