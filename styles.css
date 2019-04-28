@@ -4,7 +4,6 @@ html, body {
     height: 100%;
     width: 100%;
 }
-@media only screen and (min-width: 344px) {
     body {
         background-image: url('nature.gif');
         background-position: center center;
@@ -26,23 +25,17 @@ main {
 }
 .main-img {
     border-radius: 50%;
-    width: 100%;
-    height: auto;
-    max-width: 400px;
+    width: 200px;
+    height: 200px;
 }
 main h1 {
     font-size: 40px;
     letter-spacing: 4px;
     font-weight: 100;
 }
-main h4 {
-    font-size: 30px;
-    letter-spacing: 3px;
-    font-weight: 100;
-}
 main h5 {
     font-size: 20px;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     font-weight: 100;
 }
 main p {
@@ -63,7 +56,7 @@ main li a {
     font-size: 60px;
     transition: all ease-in-out 250ms;
 }
-.name, .name:hover {
+.name .name:hover {
     color: white;
     text-decoration: none;
 }
