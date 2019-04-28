@@ -31,8 +31,6 @@ main h1 h1:hover {
     font-size: 40px;
     letter-spacing: 4px;
     font-weight: 100;
-    text-decoration: none;
-    color: white;
 }
 main h5 {
     font-size: 20px;
@@ -56,6 +54,10 @@ main li a {
     text-decoration: none;
     font-size: 60px;
     transition: all ease-in-out 250ms;
+}
+a a:hover h1 {
+    color: white;
+    text-decoration: none;
 }
 nav {
      text-align: left;
