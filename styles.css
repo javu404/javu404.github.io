@@ -49,12 +49,6 @@ main li {
     margin: 6px;
     list-style: none;
 }
-main li a {
-    color: white;
-    text-decoration: none;
-    font-size: 60px;
-    transition: all ease-in-out 250ms;
-}
 nav {
      text-align: left;
      position: fixed;
