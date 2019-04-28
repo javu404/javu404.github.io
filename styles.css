@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     width: 100%;
 }
-@media only screen and (max-width: 344px) {
+@media only screen and (min-width: 344px) {
     body {
         background-image: url('nature.gif');
         background-position: center center;
