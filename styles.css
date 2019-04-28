@@ -59,6 +59,12 @@ nav {
      line-height: 0;
      display:block !important;
 }
+/*Website Icons*/
+main li a {
+    color: white;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
 #reddit:hover {
     color: #ff4301;
 }
