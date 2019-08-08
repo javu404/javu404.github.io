@@ -36,10 +36,8 @@ ______________
 WEBSITE HEADER
 ______________
 */
-main h1 h1:hover {
-    font-size: 40px;
-    letter-spacing: 4px;
-    font-weight: 100;
+main h1 {
+    margin-top: 30px;
 }
 /*
 ___________________
@@ -48,21 +46,7 @@ ___________________
 */
 main p {
     text-align: justify;
-}
-/*
-____________________
-WEBSITE'S HITCOUNTER
-____________________
-*/
-nav {
-     text-align: left;
-     position: fixed;
-     top: 0;
-     left: 0;
-     width: 100%;
-     cursor: pointer;
-     line-height: 0;
-     display:block !important;
+    margin-top: 30px;
 }
 /*
 _____________
