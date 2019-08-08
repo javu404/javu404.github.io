@@ -89,9 +89,6 @@ main li a {
 #steam:hover {
     color: #11418e;
 }
-#gmail:hover {
-    color: #dd4b39;
-}
 #linkedin:hover {
     color: #0077B5;
 }
@@ -100,4 +97,7 @@ main li a {
 }
 #github:hover {
     color: #211F1F;
+}
+#fun-page:hover {
+    color: #CD853F;
 }
