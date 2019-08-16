@@ -70,6 +70,9 @@ main li a {
 #reddit:hover {
     color: #ff4301;
 }
+#discord:hover {
+    color: #7289da;
+}
 #steam:hover {
     color: #11418e;
 }
