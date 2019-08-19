@@ -1,6 +1,6 @@
 # Jason Vu's Main Homepage
 
->I am interested in front-end web development with the help of HTML, CSS, JavaScript, and Bootstrap! I want to learn how to create more responsive and interactive websites to benefit the user experience.
+I am interested in front-end web development with the help of HTML, CSS, JavaScript, and Bootstrap! I want to learn how to create more responsive and interactive websites to benefit the user experience.
 
 ## Navigation
 
@@ -24,6 +24,6 @@ Check out my web profiles by clicking on the logos:
 - Jason Vu ~ *Initial Work* ~ [Jason Vu](https://javu404.github.io)
 
 ## License
-THE MIT License © 2019 Jason Anh Vu
+[MIT](https://opensource.org/licenses/MIT) © 2019 Jason Anh Vu
 
 [![The MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
