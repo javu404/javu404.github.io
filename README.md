@@ -14,9 +14,9 @@ Check out my web profiles below:
 ```
 [![Discord](https://img.shields.io/badge/Discord-Create%20conversation-0000ff)](https://discord.com)
 [![Reddit](https://img.shields.io/badge/Reddit-The%20front%20page%20of%20the%20Internet-ff4301)](https://reddit.com/jvu404)
-[![Steam](https://img.shields.io/badge/Steam-By%20geniuses%20for%20geniuses-00adee)](https://store.steampowered.com/hydrogen2_oxygen1)
+[![Steam](https://img.shields.io/badge/Steam-The%20ultimate%20destination%20for%20games-004F6C)](https://store.steampowered.com/hydrogen2_oxygen1)
 [![GitHub](https://img.shields.io/badge/GitHub-Build%20software%20better%2C%20together-211F1F)](https://github.com/javu404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn Connecting%20the%20world's%20professionals%20to%20make%20them%20more%20productive%20and%20successful-0077B5)](https://linkedin.com/in/jason-anh-vu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecting%20the%20world's%20professionals-0077B5)](https://linkedin.com/in/jason-anh-vu/)
 [![Fun Page](https://img.shields.io/badge/Fun%20Page-Jason%20Vu's%20Fun%20Page-yellowgreen)](https://javu404.github.io)
 
 ## Author
