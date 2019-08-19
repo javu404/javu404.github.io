@@ -6,7 +6,7 @@
 
 ```
 Check out my web profiles by clicking on the logos:
-1. ![Discord](https://discord.com) 
+1. Discord
 2. Reddit
 3. Steam
 4. Github
@@ -20,7 +20,7 @@ Check out my web profiles by clicking on the logos:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecting%20the%20world's%20professionals%20to%20make%20them%20more%20productive%20and%20successful-blue)
 ![Fun Page](https://img.shields.io/badge/Fun%20Page-Jason%20Vu's%20Fun%20Page-yellowgreen)
 
-## Authors
+## Author
 - Jason Vu ~ *Initial Work* ~ [Jason Vu](https://javu404.github.io)
 
 ## License
