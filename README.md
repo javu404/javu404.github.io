@@ -24,6 +24,6 @@ Check out my web profiles by clicking on the logos:
 - Jason Vu ~ *Initial Work* ~ [Jason Vu](https://javu404.github.io)
 
 ## License
->The MIT License
+THE MIT License © 2019 Jason Anh Vu
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![The MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
