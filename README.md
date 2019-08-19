@@ -1,5 +1,4 @@
 # Jason Vu's Homepage
-
 I am interested in front-end web development with the help of HTML, CSS, JavaScript, and Bootstrap! I want to learn how to create more responsive and interactive websites to benefit the user experience.
 
 ## Navigation
