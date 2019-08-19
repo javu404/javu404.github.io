@@ -13,7 +13,7 @@ Check out my web profiles by clicking on the logos:
 5. LinkedIn
 6. Fun Page
 ```
-![Discord](https://img.shields.io/badge/Discord-Create%20conversation-blue)
+[!Discord](https://img.shields.io/badge/Discord-Create%20conversation-blue)
 ![Reddit](https://img.shields.io/badge/Reddit-The%20front%20page%20of%20the%20Internet-orange)
 ![Steam](https://img.shields.io/badge/Steam-By%20geniuses%20for%20geniuses-blue)
 ![GitHub](https://img.shields.io/badge/GitHub-Build%20software%20better%2C%20together-lightgrey)
