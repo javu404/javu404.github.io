@@ -1,0 +1,986 @@
+jvu40@Jason-AL061NR MINGW64 ~/Documents/GitHub_Websites/javu404.github.io (master)
+$ git log --author="Jason"
+commit 99c7941 (HEAD -> master, origin/master)
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun Sep 8 16:49:42 2019 -0700
+
+    "Update index.html"
+
+commit 4a4dd1a
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun Sep 8 16:46:42 2019 -0700
+
+    "Update index.html"
+
+commit 13ef1cc
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun Sep 8 16:41:07 2019 -0700
+
+    "Update index.html"
+
+commit dec1f69
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:52:14 2019 -0700
+
+    NEW
+
+commit 5096cec
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:49:16 2019 -0700
+
+    NEW
+
+commit d8fed1b
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:42:16 2019 -0700
+
+    NEW
+
+commit 0202f48
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:09:42 2019 -0700
+
+    New folders
+
+commit 0186f84
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:07:45 2019 -0700
+
+    Delete d
+
+commit 42e74b9
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:07:34 2019 -0700
+
+    Delete d
+
+commit 6b8b611
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:07:14 2019 -0700
+
+    Create d
+
+commit 920ed8b
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:07:02 2019 -0700
+
+    Delete d
+
+commit fa59745
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:06:51 2019 -0700
+
+    Create d
+
+commit 36f2376
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:06:40 2019 -0700
+
+    Create d
+
+commit 2e595d7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:05:50 2019 -0700
+
+    Delete CNAME
+
+commit 3f6d21b
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 18:01:47 2019 -0700
+
+    Update CNAME
+
+commit 4bed9ab
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 17:53:58 2019 -0700
+
+    Update CNAME
+
+commit 4dd3bbf
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Sep 7 17:50:35 2019 -0700
+
+    Create CNAME
+
+commit 3c3aaf7
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed Aug 28 17:18:04 2019 -0700
+
+    Update
+
+commit f45f044
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed Aug 28 17:17:03 2019 -0700
+
+    UPDATE
+
+commit 9c7782a
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed Aug 28 17:12:00 2019 -0700
+
+    Updated
+
+commit 4b04605
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Aug 28 14:02:24 2019 -0700
+
+    Update schedule.html
+
+commit 94d7c62
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Aug 28 05:09:26 2019 -0700
+
+    Update schedule.html
+
+commit 4035608
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Tue Aug 27 19:45:54 2019 -0700
+
+    Update README.md
+
+commit c4cea99
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Tue Aug 27 19:44:43 2019 -0700
+
+    Update README.md
+
+commit 316c13a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Aug 19 15:11:36 2019 -0700
+
+    Update README.md
+
+commit 8a9d9a0
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Aug 19 15:04:58 2019 -0700
+
+    Update README.md
+
+commit c0a3766
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Aug 19 14:49:19 2019 -0700
+
+    Update README.md
+
+commit bac7ce8
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Aug 19 14:39:26 2019 -0700
+
+    Update README.md
+
+commit 4d9c850
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Aug 19 11:49:07 2019 -0700
+
+    Update README.md
+
+commit 2422008
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Aug 19 11:45:07 2019 -0700
+
+    Update README.md
+
+commit 1d897fd
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 11:07:50 2019 -0700
+
+    Create CODE_OF_CONDUCT.md
+
+commit d5de5f3
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 11:02:32 2019 -0700
+
+    Create LICENSE.md
+
+commit e6c15bc
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 11:01:48 2019 -0700
+
+    Delete LICENSE.md
+
+commit f430d1e
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:54:01 2019 -0700
+
+    Create LICENSE.md
+
+commit 2c81ef2
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:34:36 2019 -0700
+
+    Update README.md
+
+commit e88bc6f
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:25:45 2019 -0700
+
+    Update README.md
+
+commit b293f83
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:25:20 2019 -0700
+
+    Update README.md
+
+commit 07786eb
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:24:39 2019 -0700
+
+    Update README.md
+
+commit c206bc2
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:21:58 2019 -0700
+
+    Update README.md
+
+commit edce910
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:21:32 2019 -0700
+
+    Update README.md
+
+commit 9e97e37
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Mon Aug 19 10:19:13 2019 -0700
+
+    Update README.md
+
+commit 6bb3a32
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Sat Aug 17 15:33:30 2019 -0700
+
+    Update README.md
+
+commit 8335732
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Sat Aug 17 15:33:20 2019 -0700
+
+    Update README.md
+
+commit a1aac71
+Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
+Date:   Sat Aug 17 15:32:28 2019 -0700
+
+    Update README.md
+
+commit 313545c
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 16:00:06 2019 -0700
+
+    Update index.html
+
+commit ea2fc25
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:57:40 2019 -0700
+
+    Update index.html
+
+commit 2898e72
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:55:03 2019 -0700
+
+    Update styles.css
+
+commit b40e6e7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:53:23 2019 -0700
+
+    Update styles.css
+
+commit 74e700c
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:52:43 2019 -0700
+
+    Update index.html
+
+commit 79b808b
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:52:05 2019 -0700
+
+    Update index.html
+
+commit 6c612f6
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:50:54 2019 -0700
+
+    Update index.html
+
+commit 47393fd
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:47:43 2019 -0700
+
+    Update styles.css
+
+commit e9f24b5
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:44:48 2019 -0700
+
+    Update index.html
+
+commit 333597d
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:43:25 2019 -0700
+
+    Update index.html
+
+commit 7bf44a6
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:43:02 2019 -0700
+
+    Create picture.jpg
+
+commit aad8568
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:42:05 2019 -0700
+
+    Delete avatar.JPG
+
+commit 8babdc9
+Merge: 35393d0 61bd741
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:41:02 2019 -0700
+
+    Merge branch 'master' of https://github.com/javu404/javu404.github.io
+
+commit 35393d0
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:40:36 2019 -0700
+
+    Update avatar.JPG
+
+commit 61bd741
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:39:25 2019 -0700
+
+    Delete avatar.JPG
+
+commit 82e02c1
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:37:18 2019 -0700
+
+    Add files via upload
+
+commit 938cef4
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:37:01 2019 -0700
+
+    Delete avatar.JPG
+
+commit 5ca9a5a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:29:17 2019 -0700
+
+    update
+
+commit 29396a7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:28:53 2019 -0700
+
+    Update index.html
+
+commit 9c6df99
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:25:54 2019 -0700
+
+    Update schedule.html
+
+commit fdc45bb
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:23:45 2019 -0700
+
+    Update schedule.html
+
+commit 8f26aa6
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:18:15 2019 -0700
+
+    Update schedule.html
+
+commit ea01859
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Aug 16 15:16:41 2019 -0700
+
+    Update schedule.html
+
+commit 550c04e
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:56:59 2019 -0700
+
+    Update schedule.html
+
+commit 55d538e
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:54:30 2019 -0700
+
+    Update styles.css
+
+commit 3640c32
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:52:10 2019 -0700
+
+    Delete script.js
+
+commit 1c7c7c4
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:51:35 2019 -0700
+
+    Update index.html
+
+commit 82d7aff
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:31:02 2019 -0700
+
+    Update styles.css
+
+commit fc20f94
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:30:27 2019 -0700
+
+    Update index.html
+
+commit 8389898
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:27:59 2019 -0700
+
+    Update index.html
+
+commit 84a318d
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:23:43 2019 -0700
+
+    Update index.html
+
+commit 0eebdc9
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu Aug 8 15:20:00 2019 -0700
+
+    Update index.html
+
+commit 2d8753e
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:45:51 2019 -0700
+
+    Update styles.css
+
+commit 039ec97
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:43:42 2019 -0700
+
+    Update index.html
+
+commit cedfbb1
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:43:04 2019 -0700
+
+    Update index.html
+
+commit 5830e4a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:40:57 2019 -0700
+
+    Update schedule.html
+
+commit d33e0b7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:40:28 2019 -0700
+
+    Update index.html
+
+commit 8419968
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:39:43 2019 -0700
+
+    Delete apush3.html
+
+commit 89188da
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:39:33 2019 -0700
+
+    Delete apush2.html
+
+commit 12730f5
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:39:23 2019 -0700
+
+    Delete apush1.html
+
+commit a1e078b
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sun Apr 28 08:39:13 2019 -0700
+
+    Delete apush.css
+
+commit c9bac79
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 23:08:50 2019 -0700
+
+    Update styles.css
+
+commit 8374d3f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 23:05:22 2019 -0700
+
+    Update styles.css
+
+commit 68978ca
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 23:02:29 2019 -0700
+
+    Update styles.css
+
+commit 6634e98
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 23:01:12 2019 -0700
+
+    Update styles.css
+
+commit e54156f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:59:21 2019 -0700
+
+    Update index.html
+
+commit a4c6353
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:58:48 2019 -0700
+
+    Update styles.css
+
+commit 8ec0914
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:57:38 2019 -0700
+
+    Update styles.css
+
+commit c27844a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:55:27 2019 -0700
+
+    Update styles.css
+
+commit 42c7bea
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:49:50 2019 -0700
+
+    Update styles.css
+
+commit 3892fa5
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:45:04 2019 -0700
+
+    Update index.html
+
+commit a7c6dde
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:44:44 2019 -0700
+
+    Update styles.css
+
+commit e59e757
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:43:25 2019 -0700
+
+    Update styles.css
+
+commit 507123f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:42:22 2019 -0700
+
+    Update index.html
+
+commit d9d0245
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:41:27 2019 -0700
+
+    Update index.html
+
+commit 204895d
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:39:10 2019 -0700
+
+    Update index.html
+
+commit 831fe7e
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:36:23 2019 -0700
+
+    Update styles.css
+
+commit a43bc15
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:35:31 2019 -0700
+
+    Update styles.css
+
+commit 53e7b7f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:34:21 2019 -0700
+
+    Update styles.css
+
+commit c4effc4
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:28:01 2019 -0700
+
+    Update index.html
+
+commit fbe90da
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:27:31 2019 -0700
+
+    Update styles.css
+
+commit 4b36141
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:23:12 2019 -0700
+
+    Update styles.css
+
+commit 64d6ea0
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:16:11 2019 -0700
+
+    Update index.html
+
+commit d69bbbb
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:12:14 2019 -0700
+
+    Update styles.css
+
+commit 127eb25
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:10:27 2019 -0700
+
+    Update index.html
+
+commit 7b99cf0
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 22:04:52 2019 -0700
+
+    Update styles.css
+
+commit 1f66e0d
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 21:12:06 2019 -0700
+
+    Update styles.css
+
+commit 827341f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 21:10:30 2019 -0700
+
+    Update index.html
+
+commit 3fc495c
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 21:10:00 2019 -0700
+
+    Update styles.css
+
+commit 474dd17
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 21:08:14 2019 -0700
+
+    Update styles.css
+
+commit c4c46f6
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:56:08 2019 -0700
+
+    Update styles.css
+
+commit 275e918
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:54:21 2019 -0700
+
+    Update styles.css
+
+commit 55fa883
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:47:18 2019 -0700
+
+    Update script.js
+
+commit aad4c03
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:41:20 2019 -0700
+
+    Update script.js
+
+commit fa71d16
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:40:33 2019 -0700
+
+    Update styles.css
+
+commit dc9303a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:39:24 2019 -0700
+
+    Update styles.css
+
+commit 799f5d7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:38:04 2019 -0700
+
+    Update styles.css
+
+commit e595c82
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:35:02 2019 -0700
+
+    Update styles.css
+
+commit c4ca0e5
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:34:17 2019 -0700
+
+    Update styles.css
+
+commit 4b5debe
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:31:33 2019 -0700
+
+    Update index.html
+
+commit 9841c7a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:28:03 2019 -0700
+
+    Update styles.css
+
+commit e194c8f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:26:21 2019 -0700
+
+    Update styles.css
+
+commit 9bbb470
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:24:48 2019 -0700
+
+    Update styles.css
+
+commit 2242ea8
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:23:49 2019 -0700
+
+    Update styles.css
+
+commit 61c95cc
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:20:29 2019 -0700
+
+    Update styles.css
+
+commit ba4e5ea
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:17:19 2019 -0700
+
+    Update styles.css
+
+commit 87e853e
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:15:41 2019 -0700
+
+    Update styles.css
+
+commit 934b835
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:09:15 2019 -0700
+
+    Update schedule.html
+
+commit 5c5e865
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:03:56 2019 -0700
+
+    Update schedule.html
+
+commit 4291ad7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:03:01 2019 -0700
+
+    Update schedule.html
+
+commit c7bd911
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 20:00:14 2019 -0700
+
+    Update schedule.html
+
+commit 5b3ac37
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:59:36 2019 -0700
+
+    Update schedule.html
+
+commit bd7ed51
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:56:03 2019 -0700
+
+    Update styles.css
+
+commit 075552f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:54:51 2019 -0700
+
+    Update apush2.html
+
+commit 808005e
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:54:23 2019 -0700
+
+    Update apush3.html
+
+commit 188bb26
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:53:49 2019 -0700
+
+    Update schedule.html
+
+commit 58c8a92
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:51:07 2019 -0700
+
+    Update index.html
+
+commit f0ffef7
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:47:43 2019 -0700
+
+    Update styles.css
+
+commit 98f5023
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:46:00 2019 -0700
+
+    Update index.html
+
+commit f781f0d
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:44:09 2019 -0700
+
+    Update script.js
+
+commit b52a56a
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:43:45 2019 -0700
+
+    Update index.html
+
+commit 4aba396
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:39:14 2019 -0700
+
+    Delete _config.yml
+
+commit 7b7cc21
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Sat Apr 27 19:36:19 2019 -0700
+
+    Set theme jekyll-theme-cayman
+
+commit 27dbafc
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 12 09:07:45 2019 -0700
+
+    Delete CNAME
+
+commit 131b894
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 12 09:06:50 2019 -0700
+
+    Create CNAME
+
+commit dfde707
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Apr 8 13:57:10 2019 -0700
+
+    Add files via upload
+
+commit 58530a2
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Apr 8 13:56:51 2019 -0700
+
+    Update index.html
+
+commit 77bec10
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Apr 8 13:53:42 2019 -0700
+
+    Update index.html
+
+commit e4b536c
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Apr 8 13:52:03 2019 -0700
+
+    Delete NPC.png
+
+commit 78262c9
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:27:07 2018 -0800
+
+    Update index.html
+
+commit 191dee6
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:24:11 2018 -0800
+
+    Update script.js
+
+commit baacbde
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:23:42 2018 -0800
+
+    Update index.html
+
+commit 994dd40
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:22:00 2018 -0800
+
+    Update apush3.html
+
+commit ec7f1f6
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:21:41 2018 -0800
+
+    Update apush2.html
+
+commit be83034
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:20:36 2018 -0800
+
+    Update apush1.html
+
+commit a66cb72
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:19:46 2018 -0800
+
+    Update schedule.html
+
+commit e6798d5
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:16:40 2018 -0800
+
+    Create README.md
+
+commit 5749317
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 19:12:21 2018 -0800
+
+    Delete .gitattributes
+
+commit b66b4c5
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Wed Nov 28 16:47:24 2018 -0800
+
+    Hello, this is my 1st commit!
+
+commit edfc34f
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Tue Nov 27 23:53:50 2018 -0800
+
+    Initial commit
