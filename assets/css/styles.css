@@ -1,0 +1,432 @@
+body, html { /*Whole doc styling*/
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: ivory;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 15px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.anchor { /*Actually this is just my name, space it to look all clean and nice*/
+  line-height: 60px;
+  position: fixed;
+  float: left;
+  padding: 25px 46px;
+  padding-top: 0;
+}
+
+.anchor a { /*make the anchor links look good too*/
+  text-align: center;
+  text-decoration: none;
+  font-size: 15px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.anchor a h1 { /*make the anchor links look good too*/
+  letter-spacing: 2px;
+  color: #fff;
+  font-weight: bold;
+}
+
+nav { /*navbar styling*/
+  z-index: 9;
+  position: fixed;
+  width: 100%;
+  line-height: 60px;
+}
+
+nav ul { /*navbar styling*/
+  line-height: 60px;
+  list-style: none;
+  background: rgba(0, 0, 0, 0);
+  /*overflow: hidden;*/
+  padding: 0;
+  float: right;
+  margin: 0;
+  padding-right: 40px;
+  transition: 1s;
+}
+
+nav.black { /*navbar styling*/
+  background: #23272a;
+}
+
+nav ul li { /*navbar styling*/
+  display: inline-block;
+  padding: 16px 40px;;
+}
+
+nav ul li a { /*navbar styling*/
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+}
+
+.main-body { /*quick rundown section that's in front of background image*/
+  text-align: left;
+  background-color: ivory;
+}
+
+.name { /*styling of my name, like logo*/
+  letter-spacing: 15px;
+}
+
+.main-body .about { /*styling of about section with photo and short desc.*/
+  display: flex;
+  padding: 180px 50px;
+  color: #000;
+}
+
+.para { /*simple paragraph styling*/
+  padding-left: 40px;
+  padding-right: 40px;
+  float: left;
+}
+
+.main-body .about img { /*round out profile picture and make it look nice*/
+  border-radius: 50%;
+  height: 200px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  float: right;
+}
+
+.main-body .about .profile-pic {
+  width: 50%;
+}
+
+.main-body .about .profile-desc {
+  float: left;
+  padding-left: 15px;
+  padding-right: 200px;
+  width: 50%;
+}
+
+.para-prog { /*simple paragraph styling*/
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+a, a:visited {
+  color: #f5f5f5;
+}
+
+.projects {
+  padding: 40px 0;
+}
+
+.main-body .about-me {  
+  width: 100%;
+  height: 100vh;
+  background: url("../img/main-pic.jpg") repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #23272a;
+}
+
+.main-body .about-me .about-text { /*simple text styling in about*/
+  padding-top: 350px;
+  padding-bottom: 150px;
+  text-align: center;
+  color: ivory;
+}
+
+.main-body .about-me .about-text .name { /*simple text styling in about*/
+  margin-bottom: 0;
+}
+
+.main-body .about-me .about-text .degree { /*simple text styling in about*/
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.main-body .about-me .about-text .school { /*simple text styling in about*/
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.main-body .programming-skills { /*set up the programming skills section*/
+  align-items: center;
+  color: #fff;
+  background-color: #23272a;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 5px;
+}
+
+.row { /*handles 4x4 text sections/projects look*/
+    display: inline-block;
+    padding-bottom: 25px;
+    padding: 0 200px;
+}
+
+.column { /*handles 4x4 text sections/projects look*/
+    flex: 50%;
+    padding-bottom: 50px;
+    padding-top: 0;
+}
+
+.main-body .projects { /*project section styling*/
+  align-items: center;
+  width: 100%;
+  padding: 80px 0;
+}
+
+.fa { /*flavicons styling*/
+  border-radius: 50%;
+  display: block;
+  font-size: 4em;
+  padding: 15px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+  margin: 20px 32px;
+}
+
+.fa:hover { /*flavicons styling*/
+    opacity: 0.7;
+}
+
+.fa-facebook { /*flavicons styling for facebook*/
+  background: #3B5998;
+  color: ivory;
+}
+
+.fa-twitter {  /*flavicons styling for twitter*/
+  background: #55ACEE;
+  color: ivory;
+}
+
+.fa-linkedin { /*flavicons styling for linkedin*/
+  background: #007bb5;
+  color: ivory;
+}
+
+.fa-github {  /*flavicons styling for github*/
+  background: #333;
+  color: ivory;
+}
+
+.fa-reddit { /*flavicons styling for reddit*/
+  background: #FF5700;
+  color: ivory;
+}
+
+.fa-google-plus-circle { /*flavicons styling for google*/
+  background: #db4a39;
+  color: ivory;
+}
+
+.contact-p { /*contact paragraph styling*/
+  align-items: center;
+  padding-bottom: 30px;
+}
+
+.about-me h1 {
+  letter-spacing: 5px;
+}
+
+.terminal {
+  border-radius: 5px 5px;
+  position: relative;
+  background: ivory;
+  color: black;
+  padding: 5px;
+  border-radius: 5px 5px 0 0;
+}
+
+.title{
+    text-align: left;
+    padding-left: 65px;
+}
+
+.red {
+  background: #EC6A5F;
+  border-color: #D04E42;
+}
+
+.grey {
+  background: #838383;
+  border-color: #383838;
+}
+
+.clear{
+  clear: both;
+}
+
+.terminal .body {
+    background: black;
+    color: #AAAAAA;
+    padding: 15px 8px;
+    margin: 0;
+    overflow: auto;
+    text-align: left;
+    font-size: 15px;
+}
+.space {
+    margin: 30px 200px;
+}
+
+.shadow {
+  box-shadow: 0px 0px 10px rgba(0,0,0,.4)
+}
+
+.contact { /*contact section styling*/
+  align-items: center;
+  text-align: center;
+  color: #23272a;
+  background-color: ivory;
+  width: 100%;
+  padding-top: 60px;
+}
+
+#contact-header {
+  text-decoration: none;
+  color: #23272a;
+}
+
+.footer .copyright {
+  position: static;
+  bottom: 0;
+  padding: 25px;
+  background-color:#23272a;
+  color: ivory;
+  text-align: center;
+}
+
+
+/*------------------------ Media Queries -------------------------*/
+
+@media screen and (max-width: 985px) {
+
+  nav ul {
+    float: none;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+  }
+
+  .row {
+    padding: 0 20px;
+  }
+
+  .anchor {
+    position: relative;
+    align-items: center;
+    width: 100%;
+    padding: 0 0;
+  }
+
+  .anchor a {
+    text-align: center;
+  }
+
+  nav ul li { /*navbar styling*/
+    display: inline-block;
+    padding: 0 40px;;
+  }
+
+  .main-body .about {
+    display: inline-block;
+  }
+
+  .main-body .about .profile-pic {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .main-body .about img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(0);
+    float: none;
+  }
+
+  .main-body .about .profile-desc {
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 0;
+    width: 100%;
+
+  }
+
+  .main-body .about-me .about-text {
+    padding-top: 300px;
+
+  }
+
+  .space {
+      margin: 30px 100px;
+  }
+
+}
+
+@media screen and (max-width: 755px) {
+  h1 {
+    text-align: center;
+    letter-spacing: 5px;
+  }
+
+  .anchor a h1 {
+    float: left;
+    padding-left: 15px;
+  }
+
+  nav ul {
+    display: none;
+    overflow: hidden;
+    background: #23272a;
+    /*height: 0;*/
+  }
+
+  nav ul li {
+    text-align: left;
+    display: list-item;
+    padding: 0 10px;
+  }
+
+  nav ul li a {
+    border-bottom: 1px solid #404040;
+    display: block;
+  }
+
+  .anchor {
+    width: 85%;
+    height: 10px;
+  }
+
+  .row {
+    display: inline-block;
+  }
+
+  .column a {
+    padding-bottom: 20px;
+  }
+
+  .main-body .about-me {
+    font-size: 75%;
+    letter-spacing: 5px;
+
+  }
+
+  .main-body .programming-skills {
+    padding: 40px 0;
+  }
+
+  .space {
+      margin: 30px;
+  }
+}
