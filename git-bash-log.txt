@@ -1,6 +1,88 @@
-jvu40@Jason-AL061NR MINGW64 ~/Documents/GitHub_Websites/javu404.github.io (master)
-$ git log --author="Jason"
-commit 99c7941 (HEAD -> master, origin/master)
+commit bc66e87
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 16:07:15 2020 -0700
+
+    UPDATED
+
+commit 62176b0
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 16:06:34 2020 -0700
+
+    UPDATED
+
+commit 1266ac0
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 15:59:38 2020 -0700
+
+    UPDATED 5/21/20
+
+commit 7e42c24
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Thu May 21 15:21:26 2020 -0700
+
+    Updated index.html
+
+commit dfb2b59
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 15:17:39 2020 -0700
+
+    UPDATED
+
+commit 2dac679
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 15:15:44 2020 -0700
+
+    5/21/20
+
+commit 7444276
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 3 16:56:33 2020 -0700
+
+    Update index.html
+
+commit 8fbd9dd
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 3 16:54:03 2020 -0700
+
+    Update index.html
+
+commit 72e6731
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 3 16:52:40 2020 -0700
+
+    Created 4/3/2020
+
+commit ddb0761
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 3 16:51:35 2020 -0700
+
+    Update index.html
+
+commit 5d38923
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 3 16:49:58 2020 -0700
+
+    UPDATE 4/3/2020
+
+commit a0cc508
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Fri Apr 3 16:30:03 2020 -0700
+
+    Update 4/3/2020
+
+commit a652a12
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Feb 3 07:45:38 2020 -0800
+
+    Update index.html
+
+commit 92b415b
+Author: Jason Anh Vu <javu404@gmail.com>
+Date:   Mon Feb 3 07:44:14 2020 -0800
+
+    Update index.html
+
+commit 99c7941
 Author: Jason Vu <javu404@gmail.com>
 Date:   Sun Sep 8 16:49:42 2019 -0700
 
@@ -125,6 +207,12 @@ Author: Jason Anh Vu <javu404@gmail.com>
 Date:   Wed Aug 28 14:02:24 2019 -0700
 
     Update schedule.html
+
+commit b74120a
+Author: [jason vu] <[javu404@gmail.com]>
+Date:   Wed Aug 28 05:12:59 2019 -0700
+
+    NEW
 
 commit 94d7c62
 Author: Jason Anh Vu <javu404@gmail.com>
@@ -263,6 +351,12 @@ Author: Jason Anh Vu <42426861+javu404@users.noreply.github.com>
 Date:   Sat Aug 17 15:32:28 2019 -0700
 
     Update README.md
+
+commit bf47917
+Author: [jason vu] <[javu404@gmail.com]>
+Date:   Fri Aug 16 20:19:19 2019 -0700
+
+    init commit
 
 commit 313545c
 Author: Jason Anh Vu <javu404@gmail.com>
