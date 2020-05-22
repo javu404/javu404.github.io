@@ -1,7 +1,7 @@
 body, html { /*Whole doc styling*/
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  background-color: ivory;
+  background-color: whitesmoke;
 }
 
 h1 {
@@ -72,10 +72,10 @@ nav ul li a { /*navbar styling*/
 
 .main-body { /*quick rundown section that's in front of background image*/
   text-align: left;
-  background-color: ivory;
+  background-color: whitesmoke;
 }
 
-.name { /*styling of my name, like logo*/
+.name { /*styling of my name, like anchor*/
   letter-spacing: 15px;
 }
 
@@ -121,7 +121,7 @@ a, a:visited {
   color: #f5f5f5;
 }
 
-.projects {
+.proj-skills {
   padding: 40px 0;
 }
 
@@ -140,7 +140,7 @@ a, a:visited {
   padding-top: 350px;
   padding-bottom: 150px;
   text-align: center;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .main-body .about-me .about-text .name { /*simple text styling in about*/
@@ -157,13 +157,35 @@ a, a:visited {
   margin-bottom: 0;
 }
 
-.main-body .programming-skills { /*set up the programming skills section*/
+.main-body .prog-skills { /*set up the programming skills section*/
   align-items: center;
   color: #fff;
   background-color: #23272a;
   width: 100%;
   padding-top: 40px;
   padding-bottom: 5px;
+}
+
+.about-me h1 {
+  letter-spacing: 5px;
+}
+
+.terminal a {
+  border-radius: 5px 5px;
+  position: relative;
+  color: #7AFB4C;
+  padding: 5px;
+  border-radius: 5px 5px 0 0;
+}
+
+.terminal .body {
+  background: black;
+  color: #7AFB4C;
+  padding: 15px 8px;
+  margin: 0;
+  overflow: auto;
+  text-align: left;
+  font-size: 15px;
 }
 
 .row { /*handles 4x4 text sections/projects look*/
@@ -178,7 +200,7 @@ a, a:visited {
     padding-top: 0;
 }
 
-.main-body .projects { /*project section styling*/
+.main-body .project-skills { /*project section styling*/
   align-items: center;
   width: 100%;
   padding: 80px 0;
@@ -201,58 +223,49 @@ a, a:visited {
 
 .fa-facebook { /*flavicons styling for facebook*/
   background: #3B5998;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .fa-twitter {  /*flavicons styling for twitter*/
   background: #55ACEE;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .fa-linkedin { /*flavicons styling for linkedin*/
   background: #007bb5;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .fa-github {  /*flavicons styling for github*/
   background: #333;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .fa-reddit { /*flavicons styling for reddit*/
   background: #FF5700;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .fa-google-plus-circle { /*flavicons styling for google*/
   background: #db4a39;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .fa-spotify { /*flavicons styling for spotify*/
   background: #1DB954;
-  color: ivory;
+  color: whitesmoke;
 }
 
 .contact-p { /*contact paragraph styling*/
   align-items: center;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+
 }
 
-.about-me h1 {
-  letter-spacing: 5px;
-}
-
-.terminal {
-  border-radius: 5px 5px;
-  position: relative;
-  background: ivory;
-  color: black;
-  padding: 5px;
-  border-radius: 5px 5px 0 0;
-}
-
-.title{
+.title {
     text-align: left;
     padding-left: 65px;
 }
@@ -267,21 +280,13 @@ a, a:visited {
   border-color: #383838;
 }
 
-.clear{
+.clear{ 
   clear: both;
 }
 
-.terminal .body {
-    background: black;
-    color: #7AFB4C;
-    padding: 15px 8px;
-    margin: 0;
-    overflow: auto;
-    text-align: left;
-    font-size: 15px;
-}
+
 .space {
-    margin: 30px 200px;
+  margin: 30px 200px;
 }
 
 .shadow {
@@ -292,7 +297,7 @@ a, a:visited {
   align-items: center;
   text-align: center;
   color: #23272a;
-  background-color: ivory;
+  background-color: whitesmoke;
   width: 100%;
   padding-top: 60px;
 }
@@ -308,40 +313,18 @@ a, a:visited {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color:#23272a;
-  color: ivory;
+  color: whitesmoke;
   text-align: center;
 }
 
-
 /*------------------------ Media Queries -------------------------*/
 
-@media screen and (max-width: 985px) {
-
+@media screen and (max-width: 1200px) {
   nav ul {
     float: none;
     text-align: center;
     width: 100%;
     padding: 0;
-  }
-
-  .row {
-    padding: 0 20px;
-  }
-
-  .anchor {
-    position: relative;
-    align-items: center;
-    width: 100%;
-    padding: 0 0;
-  }
-
-  .anchor a {
-    text-align: center;
-  }
-
-  nav ul li { /*navbar styling*/
-    display: inline-block;
-    padding: 0 40px;;
   }
 
   .main-body .about {
@@ -366,73 +349,83 @@ a, a:visited {
     padding-right: 15px;
     padding-left: 0;
     width: 100%;
-
   }
 
   .main-body .about-me .about-text {
     padding-top: 300px;
+  }
 
+
+  .main-body .about-me .about-text { /*simple text styling in about*/
+    padding-top: 325px;
+    padding-bottom: 150px;
+    text-align: center;
+    color: whitesmoke;
+  }
+
+  .row {
+    padding: 0 20px;
+  }
+
+  .anchor {
+    display: none;
+  }
+
+  nav ul li { /*navbar styling*/
+    display: inline-block;
+    padding: 0 20px;
+  }
+
+  .main-body .about .profile-pic {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .main-body .about img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(0);
+    float: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  nav ul {
+    float: none;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+  }
+
+  .row {
+    padding: 0 5px;
+  }
+
+  .anchor {
+    display: none;
+  }
+
+  nav ul li { /*navbar styling*/
+    display: inline-block;
+    padding: 0 5px;
+  }
+
+  .main-body .about .profile-pic {
+    justify-content: center;
+    width: 100%;
+    display: inline-block;
+  }
+
+  .main-body .about img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(0);
+    float: none;
   }
 
   .space {
       margin: 30px 100px;
-  }
-
-}
-
-@media screen and (max-width: 755px) {
-  h1 {
-    text-align: center;
-    letter-spacing: 5px;
-  }
-
-  .anchor a h1 {
-    float: left;
-    padding-left: 15px;
-  }
-
-  nav ul {
-    display: none;
-    overflow: hidden;
-    background: #23272a;
-    /*height: 0;*/
-  }
-
-  nav ul li {
-    text-align: left;
-    display: list-item;
-    padding: 0 10px;
-  }
-
-  nav ul li a {
-    border-bottom: 1px solid #404040;
-    display: block;
-  }
-
-  .anchor {
-    width: 85%;
-    height: 10px;
-  }
-
-  .row {
-    display: inline-block;
-  }
-
-  .column a {
-    padding-bottom: 20px;
-  }
-
-  .main-body .about-me {
-    font-size: 75%;
-    letter-spacing: 5px;
-
-  }
-
-  .main-body .programming-skills {
-    padding: 40px 0;
-  }
-
-  .space {
-      margin: 30px;
   }
 }
