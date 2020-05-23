@@ -1,7 +1,7 @@
 body, html { /*Whole doc styling*/
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  background-color: whitesmoke;
+  background-color: ivory;
 }
 
 h1 {
@@ -72,7 +72,7 @@ nav ul li a { /*navbar styling*/
 
 .main-body { /*quick rundown section that's in front of background image*/
   text-align: left;
-  background-color: whitesmoke;
+  background-color: ivory;
 }
 
 .name { /*styling of my name, like anchor*/
@@ -140,7 +140,7 @@ a, a:visited {
   padding-top: 250px;
   padding-bottom: 150px;
   text-align: center;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .main-body .about-me .about-text .name { /*simple text styling in about*/
@@ -227,46 +227,45 @@ a, a:visited {
 
 .fa-facebook { /*flavicons styling for facebook*/
   background: #3B5998;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .fa-twitter {  /*flavicons styling for twitter*/
   background: #55ACEE;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .fa-linkedin { /*flavicons styling for linkedin*/
   background: #007bb5;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .fa-github {  /*flavicons styling for github*/
   background: #333;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .fa-reddit { /*flavicons styling for reddit*/
   background: #FF5700;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .fa-google-plus-circle { /*flavicons styling for google*/
   background: #db4a39;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .fa-spotify { /*flavicons styling for spotify*/
   background: #1DB954;
-  color: whitesmoke;
+  color: ivory;
 }
 
 .contact-p { /*contact paragraph styling*/
-  align-items: center;
+  text-align: left;
   padding-bottom: 100px;
   padding-top: 50px;
   padding-left: 100px;
   padding-right: 100px;
-
 }
 
 .title {
@@ -301,9 +300,14 @@ a, a:visited {
   align-items: center;
   text-align: center;
   color: #23272a;
-  background-color: whitesmoke;
   width: 100%;
   padding-top: 60px;
+  background: url("../img/contact-me-pic.png") repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #23272a;
 }
 
 #contact-header {
@@ -317,7 +321,7 @@ a, a:visited {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color:#23272a;
-  color: whitesmoke;
+  color: ivory;
   text-align: center;
 }
 
@@ -362,7 +366,7 @@ a, a:visited {
   }
 
   .main-body .about .profile-desc {
-    text-align: center;
+    text-align: left;
     padding-right: 15px;
     padding-left: 0;
     width: 100%;
@@ -372,7 +376,7 @@ a, a:visited {
     padding-top: 250px;
     padding-bottom: 150px;
     text-align: center;
-    color: whitesmoke;
+    color: ivory;
   }
 
   .row {
@@ -405,9 +409,8 @@ a, a:visited {
 @media screen and (max-width: 768px) {
   nav ul {
     float: none;
-    text-align: center;
+    text-align: left;
     width: 100%;
-    padding: 0;
   }
 
   .row {
@@ -424,7 +427,7 @@ a, a:visited {
   }
 
   .main-body .about .profile-pic {
-    justify-content: center;
+    justify-content: left;
     width: 100%;
     display: inline-block;
   }
