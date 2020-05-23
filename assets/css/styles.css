@@ -112,7 +112,7 @@ nav ul li a { /*navbar styling*/
 }
 
 .para-prog { /*simple paragraph styling*/
-  text-align: center;
+  text-align: left;
   padding-left: 30px;
   padding-right: 30px;
 }
