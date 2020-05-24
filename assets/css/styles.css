@@ -232,16 +232,6 @@ a, a:visited {
     opacity: 0.7;
 }
 
-.fa-facebook { /*flavicons styling for facebook*/
-  background: #3B5998;
-  color: ivory;
-}
-
-.fa-twitter {  /*flavicons styling for twitter*/
-  background: #55ACEE;
-  color: ivory;
-}
-
 .fa-linkedin { /*flavicons styling for linkedin*/
   background: #007bb5;
   color: ivory;
@@ -259,11 +249,6 @@ a, a:visited {
 
 .fa-google-plus-circle { /*flavicons styling for google*/
   background: #db4a39;
-  color: ivory;
-}
-
-.fa-spotify { /*flavicons styling for spotify*/
-  background: #1DB954;
   color: ivory;
 }
 
@@ -306,7 +291,7 @@ a, a:visited {
 
 /*------------------------ Media Queries -------------------------*/
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1024px) {
   .main-body .about-me {  
     width: 100%;
     max-width: 100%;
