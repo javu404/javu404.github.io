@@ -188,6 +188,20 @@ a, a:visited {
   font-size: 15px;
 }
 
+.space {
+  margin: 30px 200px;
+}
+
+.shadow {
+  box-shadow: 0px 0px 10px rgba(0,0,0,.4)
+}
+
+.main-body .project-skills { /*project section styling*/
+  align-items: center;
+  width: 100%;
+  padding: 80px 0;
+}
+
 .row { /*handles 4x4 text sections/projects look*/
     display: inline-block;
     padding-bottom: 25px;
@@ -198,12 +212,6 @@ a, a:visited {
     flex: 50%;
     padding-bottom: 50px;
     padding-top: 0;
-}
-
-.main-body .project-skills { /*project section styling*/
-  align-items: center;
-  width: 100%;
-  padding: 80px 0;
 }
 
 .link-center {
@@ -260,42 +268,6 @@ a, a:visited {
   color: ivory;
 }
 
-.contact-p { /*contact paragraph styling*/
-  text-align: left;
-  padding-bottom: 100px;
-  padding-top: 50px;
-  padding-left: 100px;
-  padding-right: 100px;
-}
-
-.title {
-    text-align: left;
-    padding-left: 65px;
-}
-
-.red {
-  background: #EC6A5F;
-  border-color: #D04E42;
-}
-
-.grey {
-  background: #838383;
-  border-color: #383838;
-}
-
-.clear{ 
-  clear: both;
-}
-
-
-.space {
-  margin: 30px 200px;
-}
-
-.shadow {
-  box-shadow: 0px 0px 10px rgba(0,0,0,.4)
-}
-
 .contact { /*contact section styling*/
   align-items: center;
   text-align: center;
@@ -313,6 +285,14 @@ a, a:visited {
 #contact-header {
   text-decoration: none;
   color: #23272a;
+}
+
+.contact-p { /*contact paragraph styling*/
+  text-align: left;
+  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .footer .copyright {
