@@ -1,4 +1,4 @@
-body, html { /*Whole doc styling*/
+body, html { /*Whole document styling*/
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   background-color: ivory;
@@ -47,7 +47,6 @@ nav ul { /*navbar styling*/
   line-height: 60px;
   list-style: none;
   background: rgba(0, 0, 0, 0);
-  /*overflow: hidden;*/
   padding: 0;
   float: right;
   margin: 0;
@@ -387,6 +386,89 @@ a, a:visited {
 }
 
 @media screen and (max-width: 768px) {
+  .main-body .about-me {  
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    background: url("../img/main-pic.jpg") repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-color: #23272a;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+
+  nav ul {
+    float: none;
+    text-align: center;
+    width: 100%;
+    padding: 0;
+  }
+
+  .main-body .about {
+    display: inline-block;
+  }
+
+  .main-body .about .profile-pic {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .main-body .about img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(0);
+    float: none;
+  }
+
+  .main-body .about .profile-desc {
+    text-align: left;
+    padding-right: 15px;
+    padding-left: 0;
+    width: 100%;
+  }
+
+  .main-body .about-me .about-text { /*simple text styling in about*/
+    padding-top: 250px;
+    padding-bottom: 150px;
+    text-align: center;
+    color: ivory;
+  }
+
+  .row {
+    padding: 0 20px;
+  }
+
+  .anchor {
+    display: none;
+  }
+
+  nav ul li { /*navbar styling*/
+    display: inline-block;
+    padding: 0 20px;
+  }
+
+  .main-body .about .profile-pic {
+    justify-content: center;
+    width: 100%;
+  }
+
+  .main-body .about img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translateY(0);
+    float: none;
+  }
+
+  .contact-p { /*contact paragraph styling*/
+    display: none;
+  }
+}
+
+@media screen and (max-width: 375px) {
   .main-body .about-me {  
     width: 100%;
     max-width: 100%;
