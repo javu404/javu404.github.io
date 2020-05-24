@@ -483,4 +483,8 @@ a, a:visited {
     transform: translateY(0);
     float: none;
   }
+
+  .contact-p { /*contact paragraph styling*/
+    display: none;
+  }
 }
