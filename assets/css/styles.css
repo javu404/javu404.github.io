@@ -394,7 +394,7 @@ a, a:visited {
 }
 
 @media screen and (max-width: 1200px) {
-  #link-center  {
+  .link-center, #link-center  {
     color: #23272a;
     font-weight: bold;
   }
