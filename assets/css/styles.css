@@ -69,7 +69,7 @@ nav ul li a { /*navbar styling*/
   font-size: 16px;
 }
 
-.main-body { /*quick rundown section that's in front of background image*/
+.main-body .proj-skills { /*quick rundown section that's in front of background image*/
   text-align: left;
   background-color: ivory;
 }
@@ -165,6 +165,15 @@ a, a:visited {
   padding-bottom: 5px;
 }
 
+.main-body .proj-skills { /*set up the programming skills section*/
+  align-items: center;
+  color: #23272a;
+  background-color: #fff;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 5px;
+}
+
 .about-me h1 {
   letter-spacing: 5px;
 }
@@ -195,7 +204,7 @@ a, a:visited {
   box-shadow: 0px 0px 10px rgba(0,0,0,.4)
 }
 
-.main-body .project-skills { /*project section styling*/
+.main-body .proj-skills { /*project section styling*/
   align-items: center;
   width: 100%;
   padding: 80px 0;
@@ -263,7 +272,6 @@ a, a:visited {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: #23272a;
 }
 
 #contact-header {
@@ -291,7 +299,7 @@ a, a:visited {
 
 /*------------------------ Media Queries -------------------------*/
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1200px) {
   .main-body .about-me {  
     width: 100%;
     max-width: 100%;
@@ -305,11 +313,25 @@ a, a:visited {
     background-size: 100% 100%;
   }
 
+  .main-body .proj-skills { /*set up the programming skills section*/
+    align-items: center;
+    color: #fff;
+    background-color: #23272a;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 5px;
+  }
+
   nav ul {
     float: none;
     text-align: center;
     width: 100%;
     padding: 0;
+  }
+
+  nav ul li { /*navbar styling*/
+    display: inline-block;
+    padding: 0 20px;
   }
 
   .main-body .about {
@@ -351,101 +373,9 @@ a, a:visited {
     display: none;
   }
 
-  nav ul li { /*navbar styling*/
-    display: inline-block;
-    padding: 0 20px;
-  }
-
-  .main-body .about .profile-pic {
-    justify-content: center;
-    width: 100%;
-  }
-
-  .main-body .about img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    transform: translateY(0);
-    float: none;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .main-body .about-me {  
-    width: 100%;
-    max-width: 100%;
-    height: auto;
-    background: url("../img/main-pic.jpg") repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-color: #23272a;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
-  }
-
-  nav ul {
-    float: none;
-    text-align: center;
-    width: 100%;
-    padding: 0;
-  }
-
-  .main-body .about {
-    display: inline-block;
-  }
-
-  .main-body .about .profile-pic {
-    justify-content: center;
-    width: 100%;
-  }
-
-  .main-body .about img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    transform: translateY(0);
-    float: none;
-  }
-
-  .main-body .about .profile-desc {
-    text-align: left;
-    padding-right: 15px;
-    padding-left: 0;
-    width: 100%;
-  }
-
-  .main-body .about-me .about-text { /*simple text styling in about*/
-    padding-top: 250px;
-    padding-bottom: 150px;
-    text-align: center;
-    color: ivory;
-  }
-
-  .row {
-    padding: 0 20px;
-  }
-
-  .anchor {
+  .terminal, .prog-skills, pre.body {
     display: none;
-  }
-
-  nav ul li { /*navbar styling*/
-    display: inline-block;
-    padding: 0 20px;
-  }
-
-  .main-body .about .profile-pic {
-    justify-content: center;
-    width: 100%;
-  }
-
-  .main-body .about img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    transform: translateY(0);
-    float: none;
+    opacity: 0.0;
   }
 
   .contact-p { /*contact paragraph styling*/
