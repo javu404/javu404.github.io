@@ -313,13 +313,23 @@ a, a:visited {
     background-size: 100% 100%;
   }
 
-  .main-body .proj-skills { /*set up the programming skills section*/
+  .main-body .prog-skills { /*set up the programming skills section*/
     align-items: center;
-    color: #fff;
-    background-color: #23272a;
+    color: #23272a;
+    background-color: #fff;
     width: 100%;
     padding-top: 40px;
     padding-bottom: 5px;
+  }
+
+  #link-center .link-center {
+    color: #23272a;
+    font-weight: bold;
+  }
+
+  .main-body .proj-skills { /*set up the programming skills section*/
+    color: #fff;
+    background-color: #23272a;
   }
 
   nav ul {
@@ -373,13 +383,20 @@ a, a:visited {
     display: none;
   }
 
-  .terminal, .prog-skills, pre.body {
+  .terminal, #prog-skills, pre.body {
     display: none;
     opacity: 0.0;
   }
 
   .contact-p { /*contact paragraph styling*/
     display: none;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  #link-center  {
+    color: #23272a;
+    font-weight: bold;
   }
 }
 
