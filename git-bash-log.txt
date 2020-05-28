@@ -1,3 +1,257 @@
+jvu40@Jason-AL061NR MINGW64 /c/users/jvu40/documents/github_repos/jasonanhvu.github.io (master)
+$ git log
+commit a74e144 (HEAD -> master, origin/master)
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed May 27 21:16:53 2020 -0700
+
+    UPDATED
+
+commit 0602052
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed May 27 15:53:48 2020 -0700
+
+    UPDATED
+
+commit f8a0ecf
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed May 27 14:57:11 2020 -0700
+
+    UPDATED
+
+commit 02055db
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed May 27 14:38:57 2020 -0700
+
+    UPDATED
+
+commit 08fa847
+Author: Jason Vu <javu404@gmail.com>
+Date:   Wed May 27 11:18:28 2020 -0700
+
+    UPDATED
+
+commit dcfcbda
+Author: Jason Vu <javu404@gmail.com>
+Date:   Tue May 26 12:45:16 2020 -0700
+
+    UPDATED
+
+commit 03eb33c
+Author: Jason Vu <javu404@gmail.com>
+Date:   Tue May 26 12:42:37 2020 -0700
+
+    UPDATED
+
+commit 8c56bff
+Author: Jason Vu <javu404@gmail.com>
+Date:   Tue May 26 12:39:54 2020 -0700
+
+    UPDATED RESUMES
+
+commit 0994ef0
+Author: Jason Vu <javu404@gmail.com>
+Date:   Tue May 26 09:26:32 2020 -0700
+
+    UPDATED
+
+commit 4e4c822
+Author: Jason Vu <javu404@gmail.com>
+Date:   Tue May 26 09:23:21 2020 -0700
+
+    UPDATED
+
+commit f174b9c
+Author: Jason Vu <javu404@gmail.com>
+Date:   Mon May 25 20:40:51 2020 -0700
+
+    UPDATED
+
+commit db2a612
+Author: Jason Vu <javu404@gmail.com>
+Date:   Mon May 25 17:25:18 2020 -0700
+
+    UPDATED
+
+commit 2fa61ad
+Author: Jason Vu <javu404@gmail.com>
+Date:   Mon May 25 17:20:42 2020 -0700
+
+    UPDATED
+
+commit b81144d
+Author: Jason Vu <javu404@gmail.com>
+Date:   Mon May 25 10:24:17 2020 -0700
+
+    UPDATED RESUME
+
+commit ddb1ec3
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun May 24 20:11:47 2020 -0700
+
+    UPDATED
+
+commit 25c4fb0
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun May 24 18:39:37 2020 -0700
+
+    UPDATED
+
+commit a394712
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun May 24 18:14:51 2020 -0700
+
+    HI
+
+commit 32c3b60
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun May 24 17:40:42 2020 -0700
+
+    UPDATED RESUME
+
+commit 5ffaf4c
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun May 24 16:50:12 2020 -0700
+
+    UPDATED RESUMES
+
+commit 414e95d
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sun May 24 16:27:03 2020 -0700
+
+    UPDATED
+
+commit eae56f8
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 18:53:58 2020 -0700
+
+    UPDATED
+
+commit c911535
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 17:35:39 2020 -0700
+
+    UPDATED CSS
+
+commit 7a837ed
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 17:08:25 2020 -0700
+
+    UPDATED
+
+commit a7d0877
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 16:54:15 2020 -0700
+
+    UPDATED
+
+commit 337b758
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 15:28:58 2020 -0700
+
+    UPDATED
+
+commit 171b721
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 15:28:24 2020 -0700
+
+    UPDATED
+
+commit 3c2e3ed
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 13:30:52 2020 -0700
+
+    UPDATED
+
+commit 4fc18bf
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 13:07:17 2020 -0700
+
+    UPDATED RESUME
+
+commit 0283506
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 11:02:47 2020 -0700
+
+    UPDATED
+
+commit a74a319
+Author: Jason Vu <javu404@gmail.com>
+Date:   Sat May 23 10:33:41 2020 -0700
+
+    Added corporate testimonials
+
+commit ccd3cff
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 22:44:47 2020 -0700
+
+    ADDED RESUME
+
+commit 9a83a1d
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 21:45:13 2020 -0700
+
+    NEW IMAGE
+
+commit e3e74ce
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 20:36:19 2020 -0700
+
+    5/22/20
+
+commit a25fce6
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 20:27:51 2020 -0700
+
+    5/22/20
+
+commit 86614a5
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 14:13:52 2020 -0700
+
+    UPDATED
+
+commit ac13ec4
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 14:09:28 2020 -0700
+
+    UDPATED
+
+commit c4f55d6
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 13:24:51 2020 -0700
+
+    UPDATED
+
+commit 8ed283b
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 13:20:51 2020 -0700
+
+    UPDATED
+
+commit ab1cfe3
+Author: Jason Vu <javu404@gmail.com>
+Date:   Fri May 22 13:19:14 2020 -0700
+
+    Updated for 700-1000px width devices
+
+commit a110d6c
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 21:24:34 2020 -0700
+
+    UPDATED
+
+commit f3ff98d
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 21:09:48 2020 -0700
+
+    UPDATED 5/21/20
+
+commit a8c1718
+Author: Jason Vu <javu404@gmail.com>
+Date:   Thu May 21 16:18:27 2020 -0700
+
+    UPDATED
+
 commit bc66e87
 Author: Jason Vu <javu404@gmail.com>
 Date:   Thu May 21 16:07:15 2020 -0700
