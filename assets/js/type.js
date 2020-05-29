@@ -1,7 +1,8 @@
 $('document').ready(function() {
-  var instance = new Typed('#intro', {
-    strings: ['Welcome! <br/> Jason Vu 💻🤓 <br/> CSE @ SCU 2024', 
-              'Student 👨‍🎓 <br/> Programmer 👨‍💻 <br/> Aspiring Engineer ⚙️'
+  var instance = new Typed('#nouns', {
+    strings: ['hands-on learner 🙌 .',
+              'programmer 👨‍💻 .',
+              'aspiring engineer ⚙️ .'
     ],
     smartBackspace: true,
     typeSpeed: 25,
