@@ -14,6 +14,10 @@ h2 {
   text-align: center;
 }
 
+#intro {
+  display: inline;
+}
+
 .anchor { /*Actually this is just my name, space it to look all clean and nice*/
   line-height: 60px;
   position: fixed;
@@ -69,7 +73,7 @@ nav ul li a { /*navbar styling*/
   font-size: 16px;
 }
 
-.main-body .proj-skills { /*quick rundown section that's in front of background image*/
+.main-body .xp-header { /*quick rundown section that's in front of background image*/
   text-align: z;
   background-color: ivory;
 }
@@ -161,7 +165,7 @@ a, a:visited {
   padding-bottom: 5px;
 }
 
-.main-body .proj-skills { /*set up the programming skills section*/
+.main-body .xp-header { /*set up the programming skills section*/
   align-items: center;
   color: #23272a;
   background-color: #fff;
@@ -170,7 +174,7 @@ a, a:visited {
   padding-bottom: 5px;
 }
 
-.proj-skills {
+.xp-header {
   padding: 40px 0;
 }
 
@@ -319,11 +323,6 @@ a, a:visited {
   #link-center .link-center {
     color: #23272a;
     font-weight: bold;
-  }
-
-  .main-body .proj-skills { /*set up the programming skills section*/
-    color: #fff;
-    background-color: #23272a;
   }
 
   nav ul {

@@ -1,4 +1,10 @@
-var instance = new TypeIt('#intro', {
-  speed: 50,
-  autoStart: true
-});/*.delete().pause(1000).type('Jason Vu').pause(1000).delete(10).type(' Vu').break().pause(1500).type('Computer Science and Engineering Student').break().pause(1500).type('Santa Clara University');*/
+$('document').ready(function() {
+  var instance = new Typed('#intro', {
+    strings: ['Welcome! <br/> Jason Vu 💻🤓 <br/> CSE @ SCU 2024', 
+              'Student 👨‍🎓 <br/> Programmer 👨‍💻 <br/> Aspiring Engineer ⚙️'
+    ],
+    smartBackspace: true,
+    typeSpeed: 50,
+    backSpeed: 50
+  });
+});
