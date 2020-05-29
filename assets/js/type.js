@@ -4,7 +4,7 @@ $('document').ready(function() {
               'Student 👨‍🎓 <br/> Programmer 👨‍💻 <br/> Aspiring Engineer ⚙️'
     ],
     smartBackspace: true,
-    typeSpeed: 50,
-    backSpeed: 50
+    typeSpeed: 25,
+    backSpeed: 25
   });
 });
