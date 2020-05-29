@@ -264,8 +264,8 @@ a, a:visited {
   text-align: center;
   color: #23272a;
   width: 100%;
-  padding-top: 40px;
-  background: url("../img/contact-me-pic.png") repeat center center fixed;
+  padding-top: 70px;
+  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -315,6 +315,15 @@ a, a:visited {
     align-items: center;
     color: #23272a;
     background-color: #fff;
+    width: 100%;
+    padding-top: 40px;
+    padding-bottom: 5px;
+  }
+  
+  .main-body .xp-header { /*set up the programming skills section*/
+    align-items: center;
+    color: #fff;
+    background-color: #23272a;
     width: 100%;
     padding-top: 40px;
     padding-bottom: 5px;
@@ -381,14 +390,41 @@ a, a:visited {
     opacity: 0.0;
   }
 
+  .contact { /*contact section styling*/
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    padding-top: 70px;
+    background: #23272a;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  #contact-header {
+    text-decoration: none;
+    color: #fff;
+  }
+
   .contact-p { /*contact paragraph styling*/
     display: none;
   }
-}
 
-@media screen and (max-width: 1200px) {
   .link-center, #link-center  {
     color: #23272a;
+    font-weight: bold;
+  }
+
+  .footer .copyright {
+    position: static;
+    bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:ivory;
+    color: #23272a;
+    text-align: center;
     font-weight: bold;
   }
 }
@@ -471,7 +507,35 @@ a, a:visited {
     float: none;
   }
 
+  .contact { /*contact section styling*/
+    align-items: center;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    padding-top: 70px;
+    background: #23272a;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  #contact-header {
+    text-decoration: none;
+    color: #fff;
+  }
+
   .contact-p { /*contact paragraph styling*/
     display: none;
+  }
+
+  .footer .copyright {
+    position: static;
+    bottom: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color:#23272a;
+    color: ivory;
+    text-align: center;
   }
 }
