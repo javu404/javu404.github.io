@@ -30,13 +30,13 @@ h2 {
   text-align: center;
   text-decoration: none;
   font-size: 15px;
-  color: #fff;
+  color: ivory;
   font-weight: bold;
 }
 
 .anchor a h1 { /*make the anchor links look good too*/
   letter-spacing: 2px;
-  color: #fff;
+  color: ivory;
   font-weight: bold;
 }
 
@@ -69,7 +69,7 @@ nav ul li { /*navbar styling*/
 
 nav ul li a { /*navbar styling*/
   text-decoration: none;
-  color: #fff;
+  color: ivory;
   font-size: 16px;
 }
 
@@ -158,7 +158,7 @@ a, a:visited {
 
 .main-body .prog-skills { /*set up the programming skills section*/
   align-items: center;
-  color: #fff;
+  color: ivory;
   background-color: #23272a;
   width: 100%;
   padding-top: 40px;
@@ -168,7 +168,7 @@ a, a:visited {
 .main-body .xp-header { /*set up the programming skills section*/
   align-items: center;
   color: #23272a;
-  background-color: #fff;
+  background-color: ivory;
   width: 100%;
   padding-top: 40px;
   padding-bottom: 5px;
@@ -204,6 +204,18 @@ a, a:visited {
 
 #purple {
   color: #8A2BE2;
+}
+
+#yellow {
+  color: #ffff00;
+}
+
+#ivory {
+  color: ivory;
+}
+
+#cyan {
+  color:#00FFFF
 }
 
 .space {
@@ -271,7 +283,7 @@ a, a:visited {
   color: #23272a;
   width: 100%;
   padding-top: 50px;
-  background-color: #fff;
+  background-color: ivory;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -320,7 +332,7 @@ a, a:visited {
   .main-body .prog-skills { /*set up the programming skills section*/
     align-items: center;
     color: #23272a;
-    background-color: #fff;
+    background-color: ivory;
     width: 100%;
     padding-top: 40px;
     padding-bottom: 5px;
@@ -328,7 +340,7 @@ a, a:visited {
   
   .main-body .xp-header { /*set up the programming skills section*/
     align-items: center;
-    color: #fff;
+    color: ivory;
     background-color: #23272a;
     width: 100%;
     padding-top: 40px;
@@ -399,7 +411,7 @@ a, a:visited {
   .contact { /*contact section styling*/
     align-items: center;
     text-align: center;
-    color: #fff;
+    color: ivory;
     width: 100%;
     padding-top: 50px;
     background: #23272a;
@@ -411,7 +423,7 @@ a, a:visited {
   
   #contact-header {
     text-decoration: none;
-    color: #fff;
+    color: ivory;
   }
 
   .contact-p { /*contact paragraph styling*/
@@ -516,7 +528,7 @@ a, a:visited {
   .contact { /*contact section styling*/
     align-items: center;
     text-align: center;
-    color: #fff;
+    color: ivory;
     width: 100%;
     padding-top: 70px;
     background: #23272a;
@@ -528,7 +540,7 @@ a, a:visited {
   
   #contact-header {
     text-decoration: none;
-    color: #fff;
+    color: ivory;
   }
 
   .contact-p { /*contact paragraph styling*/
