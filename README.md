@@ -4,22 +4,16 @@ I am interested in front-end web development with the help of HTML, CSS, JavaScr
 ## Navigation
 ```
 Check out my web profiles below:
-1. Discord
-2. Reddit
-3. Steam
-4. Github
-5. LinkedIn
-6. Fun Page
+1. Discord 
+2. Github
+3. LinkedIn 
 ```
-[![Discord](https://img.shields.io/badge/Discord-Create%20conversation-0000ff)](https://discord.com)
-[![Reddit](https://img.shields.io/badge/Reddit-The%20front%20page%20of%20the%20Internet-ff4301)](https://reddit.com/jvu404)
-[![Steam](https://img.shields.io/badge/Steam-The%20ultimate%20destination%20for%20games-004F6C)](https://store.steampowered.com/hydrogen2_oxygen1)
+[![Discord](https://img.shields.io/badge/Discord-Create%20conversation-0000ff)](https://discord.gg/hEVJZsSWcX) 
 [![GitHub](https://img.shields.io/badge/GitHub-Build%20software%20better%2C%20together-211F1F)](https://github.com/javu404)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecting%20the%20world's%20professionals-0077B5)](https://linkedin.com/in/jason-anh-vu/)
-[![Fun Page](https://img.shields.io/badge/Fun%20Page-Jason%20Vu's%20Fun%20Page-yellowgreen)](https://javu404.github.io/fun-page)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecting%20the%20world's%20professionals-0077B5)](https://linkedin.com/in/jason-anh-vu/) 
 
 ## Author
-- [Jason Vu](https://javu404.github.io) ~ *Webpage Author*
+- [Jason Vu](https://jasonanhvu.github.io) ~ *Webpage Author*
 
 ## License
 [MIT](https://opensource.org/licenses/MIT) © 2019 Jason Anh Vu
