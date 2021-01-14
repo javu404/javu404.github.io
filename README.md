@@ -16,6 +16,6 @@ Check out my web profiles below:
 - [Jason Vu](https://jasonanhvu.github.io) ~ *Webpage Author*
 
 ## License
-[MIT](https://opensource.org/licenses/MIT) © 2019 Jason Anh Vu
+[MIT](https://opensource.org/licenses/MIT) © 2021 Jason Anh Vu
 
 [![The MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
