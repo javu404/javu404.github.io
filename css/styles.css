@@ -10,15 +10,16 @@
     that don't come from third party libraries. This file gets compiled using
     Gulp and send to the /css folder which is then loaded on the page.
 */
-
-body {
+body { 	
+	user-select: none; 
+	-webkit-user-drag: none; 
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
 	-moz-user-select: none;
 	-ms-user-select: none;
 	user-select: none;
 	font-family: 'Lato', sans-serif;
-	font-size: 16px
+	font-size: 16px; 
 }
 
 body.active {
