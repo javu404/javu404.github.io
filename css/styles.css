@@ -20,9 +20,9 @@ body {
 	user-select: none;
 	font-family: 'Lato', sans-serif;
 	font-size: 16px; 
-}
+} 
 
-body.active {
+body.active  {
 	overflow: hiddeb19a9an;
 	z-index: -1
 }
@@ -232,7 +232,7 @@ footer {
 	color: #3498db;
 	background: #fff;
 	text-decoration: none
-}
+}  
 
 .shadow {
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24)
