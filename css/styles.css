@@ -336,23 +336,25 @@ footer {
 }
 
 #about p {
-	color: #74808a;
+	color: 374054;
 	margin: 0;
 } 
+
+#about-desc {
+	background: #f2f2f5; 
+	padding: 2.5%; 
+	color: dimgray;
+	border-radius: 15px;
+	font-size: 20px;
+	line-height: 1.5;
+}
 
 #projects {
 	padding: 50px 15px;
 	border-bottom: 1px solid #dcd9d9;
-	text-align: center
-}
-
-#description { 
-	padding: 20px;
-	border-bottom: 1px solid #dcd9d9; 
-	background: #f2f2f5;
-	font-size: 20px;
-	border-radius: 15px;
-}
+	text-align: center;
+	
+} 
 
 #projects h2 {
 	color: #374054;
