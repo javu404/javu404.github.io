@@ -575,7 +575,8 @@ footer {
 		font-size: 1.75em
 	}
 	#about {
-		text-align: center
+		text-align: center;
+		padding-left: 25px;
 	}
 	#about p {
 		text-align: left
