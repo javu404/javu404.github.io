@@ -376,11 +376,7 @@ footer {
 	padding: 30px 15px;
 	transform: none
 }
-
-#more-projects {
-	display: none
-}
-
+ 
 #skills {
 	padding: 50px 15px;
 	text-align: center
@@ -487,49 +483,6 @@ footer {
 
 #contact-form button:hover {
 	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23)
-}
-
-.optional-section {
-	padding: 50px 15px;
-	text-align: center;
-	border-top: 1px solid #dcd9d9
-}
-
-.optional-section h2 {
-	color: #374054
-}
-
-.optional-section-block {
-	max-width: 700px;
-	margin: 0 auto 30px auto;
-	padding: 15px;
-	border: 1px solid #dcd9d9;
-	background: #fff;
-	text-align: left
-}
-
-.optional-section-block h3 {
-	font-weight: 500;
-	margin: 0 0 15px 0;
-	color: #374054
-}
-
-.optional-section-block h4 {
-	color: #74808a;
-	clear: both;
-	font-weight: 500;
-	margin: 0 0 15px 0
-}
-
-.optional-section-block p,
-.optional-section-block ul {
-	margin: 0 0 15px 0;
-	color: #74808a;
-	font-size: 0.9em
-}
-
-.optional-section-block ul {
-	padding: 0 0 0 15px
 } 
 
 @media only screen and (max-width: 992px) {
